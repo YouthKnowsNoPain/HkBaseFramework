@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HkBaseFramework_Example' do
+  pod 'HkBaseFramework', :path => '../'
+
+  target 'HkBaseFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
