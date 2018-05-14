@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/YouthKnowsNoPain/HkBaseFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '黄锟' => 'schyhk@qq.com' }
+  s.author           = { 'YouthKnowsNoPain' => 'schyhk@qq.com' }
   s.source           = { :git => 'https://github.com/YouthKnowsNoPain/HkBaseFramework.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
