@@ -17,12 +17,12 @@ HkBaseFramework is available through [CocoaPods](https://cocoapods.org). To inst
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'HkBaseFramework'
+pod 'HkBaseFramework', '~> 1.0.0'
 ```
 
 ## Author
 
-schyhk@qq.com, schyhk@qq.com
+YouthKnowsNoPain, schyhk@qq.com
 
 ## License
 
