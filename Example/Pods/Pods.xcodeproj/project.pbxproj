@@ -28,18 +28,18 @@
 		0D669F6A20A98BAF0080B60C /* UIButton+Extensition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F5420A98BAF0080B60C /* UIButton+Extensition.swift */; };
 		0D669F6B20A98BAF0080B60C /* UIButton+Extensition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F5420A98BAF0080B60C /* UIButton+Extensition.swift */; };
 		0D669F6C20A98BAF0080B60C /* UIButton+Extensition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F5420A98BAF0080B60C /* UIButton+Extensition.swift */; };
-		0D669F6E20A98BDE0080B60C /* loggerswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F6D20A98BDE0080B60C /* loggerswift.swift */; };
-		0D669F6F20A98BDE0080B60C /* loggerswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F6D20A98BDE0080B60C /* loggerswift.swift */; };
-		0D669F7020A98BDE0080B60C /* loggerswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F6D20A98BDE0080B60C /* loggerswift.swift */; };
-		0D669F7320A98C060080B60C /* SwiftTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F7220A98C060080B60C /* SwiftTimer.swift */; };
-		0D669F7420A98C060080B60C /* SwiftTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F7220A98C060080B60C /* SwiftTimer.swift */; };
-		0D669F7520A98C060080B60C /* SwiftTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F7220A98C060080B60C /* SwiftTimer.swift */; };
-		0D669F7820A98C220080B60C /* HKTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F7720A98C220080B60C /* HKTextField.swift */; };
-		0D669F7920A98C220080B60C /* HKTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F7720A98C220080B60C /* HKTextField.swift */; };
-		0D669F7A20A98C220080B60C /* HKTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F7720A98C220080B60C /* HKTextField.swift */; };
 		0D669F7C20A991910080B60C /* NSAttributedString+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F7B20A991910080B60C /* NSAttributedString+Extension.swift */; };
 		0D669F7D20A991910080B60C /* NSAttributedString+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F7B20A991910080B60C /* NSAttributedString+Extension.swift */; };
 		0D669F7E20A991910080B60C /* NSAttributedString+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F7B20A991910080B60C /* NSAttributedString+Extension.swift */; };
+		0D669F8420A994B90080B60C /* loggerswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F8020A994B90080B60C /* loggerswift.swift */; };
+		0D669F8520A994B90080B60C /* loggerswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F8020A994B90080B60C /* loggerswift.swift */; };
+		0D669F8620A994B90080B60C /* loggerswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F8020A994B90080B60C /* loggerswift.swift */; };
+		0D669F8720A994B90080B60C /* HKTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F8220A994B90080B60C /* HKTextField.swift */; };
+		0D669F8820A994B90080B60C /* HKTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F8220A994B90080B60C /* HKTextField.swift */; };
+		0D669F8920A994B90080B60C /* HKTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F8220A994B90080B60C /* HKTextField.swift */; };
+		0D669F8A20A994B90080B60C /* SwiftTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F8320A994B90080B60C /* SwiftTimer.swift */; };
+		0D669F8B20A994B90080B60C /* SwiftTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F8320A994B90080B60C /* SwiftTimer.swift */; };
+		0D669F8C20A994B90080B60C /* SwiftTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D669F8320A994B90080B60C /* SwiftTimer.swift */; };
 		36DAAD7EDA4B383C391B898D0871A3BA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		66A3C8FBE86D84CB7B1D3AC2493E483D /* Pods-HkBaseFramework_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 97F53065D5750F6207C7F4FA13BDBBA4 /* Pods-HkBaseFramework_Example-dummy.m */; };
 		7578E29B409C106DBC11280FD5BD0B95 /* Pods-HkBaseFramework_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 845DEE1DBBC19DA1F008157B71E4A560 /* Pods-HkBaseFramework_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -72,10 +72,10 @@
 		0D669F5220A98BAE0080B60C /* UIColor+Tool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Tool.swift"; sourceTree = "<group>"; };
 		0D669F5320A98BAE0080B60C /* UIView+Extensition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extensition.swift"; sourceTree = "<group>"; };
 		0D669F5420A98BAF0080B60C /* UIButton+Extensition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+Extensition.swift"; sourceTree = "<group>"; };
-		0D669F6D20A98BDE0080B60C /* loggerswift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = loggerswift.swift; sourceTree = "<group>"; };
-		0D669F7220A98C060080B60C /* SwiftTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftTimer.swift; sourceTree = "<group>"; };
-		0D669F7720A98C220080B60C /* HKTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HKTextField.swift; sourceTree = "<group>"; };
 		0D669F7B20A991910080B60C /* NSAttributedString+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSAttributedString+Extension.swift"; sourceTree = "<group>"; };
+		0D669F8020A994B90080B60C /* loggerswift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = loggerswift.swift; sourceTree = "<group>"; };
+		0D669F8220A994B90080B60C /* HKTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HKTextField.swift; sourceTree = "<group>"; };
+		0D669F8320A994B90080B60C /* SwiftTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftTimer.swift; sourceTree = "<group>"; };
 		0FAD5CE0031969739DDA388526CFDC5A /* Pods-HkBaseFramework_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HkBaseFramework_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1975A1A81EB353CC97CA2191D5C59CF8 /* HkBaseFramework.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HkBaseFramework.modulemap; sourceTree = "<group>"; };
 		1AC258E9716294B85AF440E69DDC2DC3 /* Pods-HkBaseFramework_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HkBaseFramework_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -153,21 +153,23 @@
 			path = HkBaseFramework/Classes/Extension;
 			sourceTree = "<group>";
 		};
-		0D669F7120A98BE20080B60C /* Tools */ = {
+		0D669F7F20A994B90080B60C /* Tools */ = {
 			isa = PBXGroup;
 			children = (
-				0D669F6D20A98BDE0080B60C /* loggerswift.swift */,
+				0D669F8020A994B90080B60C /* loggerswift.swift */,
 			);
-			path = Tools;
+			name = Tools;
+			path = HkBaseFramework/Classes/Tools;
 			sourceTree = "<group>";
 		};
-		0D669F7620A98C0A0080B60C /* Class */ = {
+		0D669F8120A994B90080B60C /* Class */ = {
 			isa = PBXGroup;
 			children = (
-				0D669F7720A98C220080B60C /* HKTextField.swift */,
-				0D669F7220A98C060080B60C /* SwiftTimer.swift */,
+				0D669F8220A994B90080B60C /* HKTextField.swift */,
+				0D669F8320A994B90080B60C /* SwiftTimer.swift */,
 			);
-			path = Class;
+			name = Class;
+			path = HkBaseFramework/Classes/Class;
 			sourceTree = "<group>";
 		};
 		46E5DB1AB55BBEDE846999A5E182DE9F /* Products */ = {
@@ -287,8 +289,8 @@
 		FF549384BF5694252B50486AECD07955 /* HkBaseFramework */ = {
 			isa = PBXGroup;
 			children = (
-				0D669F7620A98C0A0080B60C /* Class */,
-				0D669F7120A98BE20080B60C /* Tools */,
+				0D669F8120A994B90080B60C /* Class */,
+				0D669F7F20A994B90080B60C /* Tools */,
 				0D669F4C20A98B6F0080B60C /* Extension */,
 				A4F521ECEBD68F49B3C06E0DFE733F90 /* Pod */,
 				BD892D5141029F93330E2EDF2D72035E /* Support Files */,
@@ -424,17 +426,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D669F6520A98BAF0080B60C /* UIColor+Tool.swift in Sources */,
+				0D669F8B20A994B90080B60C /* SwiftTimer.swift in Sources */,
 				0D669F6B20A98BAF0080B60C /* UIButton+Extensition.swift in Sources */,
 				0D669F5920A98BAF0080B60C /* String+Extensions.swift in Sources */,
+				0D669F8820A994B90080B60C /* HKTextField.swift in Sources */,
 				0D669F7D20A991910080B60C /* NSAttributedString+Extension.swift in Sources */,
 				66A3C8FBE86D84CB7B1D3AC2493E483D /* Pods-HkBaseFramework_Example-dummy.m in Sources */,
 				0D669F5F20A98BAF0080B60C /* UIBarButtonItem+Extensions.swift in Sources */,
-				0D669F7420A98C060080B60C /* SwiftTimer.swift in Sources */,
 				0D669F6820A98BAF0080B60C /* UIView+Extensition.swift in Sources */,
-				0D669F7920A98C220080B60C /* HKTextField.swift in Sources */,
 				0D669F5C20A98BAF0080B60C /* UILabel+Space.swift in Sources */,
 				0D669F6220A98BAF0080B60C /* UIImage+Extension.swift in Sources */,
-				0D669F6F20A98BDE0080B60C /* loggerswift.swift in Sources */,
+				0D669F8520A994B90080B60C /* loggerswift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,17 +445,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D669F6620A98BAF0080B60C /* UIColor+Tool.swift in Sources */,
+				0D669F8C20A994B90080B60C /* SwiftTimer.swift in Sources */,
 				0D669F6C20A98BAF0080B60C /* UIButton+Extensition.swift in Sources */,
 				0D669F5A20A98BAF0080B60C /* String+Extensions.swift in Sources */,
+				0D669F8920A994B90080B60C /* HKTextField.swift in Sources */,
 				0D669F7E20A991910080B60C /* NSAttributedString+Extension.swift in Sources */,
 				99CB323C1D3C60E2C2D44D9D159761EC /* Pods-HkBaseFramework_Tests-dummy.m in Sources */,
 				0D669F6020A98BAF0080B60C /* UIBarButtonItem+Extensions.swift in Sources */,
-				0D669F7520A98C060080B60C /* SwiftTimer.swift in Sources */,
 				0D669F6920A98BAF0080B60C /* UIView+Extensition.swift in Sources */,
-				0D669F7A20A98C220080B60C /* HKTextField.swift in Sources */,
 				0D669F5D20A98BAF0080B60C /* UILabel+Space.swift in Sources */,
 				0D669F6320A98BAF0080B60C /* UIImage+Extension.swift in Sources */,
-				0D669F7020A98BDE0080B60C /* loggerswift.swift in Sources */,
+				0D669F8620A994B90080B60C /* loggerswift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -462,17 +464,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D669F6420A98BAF0080B60C /* UIColor+Tool.swift in Sources */,
+				0D669F8A20A994B90080B60C /* SwiftTimer.swift in Sources */,
 				0D669F6A20A98BAF0080B60C /* UIButton+Extensition.swift in Sources */,
 				0D669F5820A98BAF0080B60C /* String+Extensions.swift in Sources */,
+				0D669F8720A994B90080B60C /* HKTextField.swift in Sources */,
 				0D669F7C20A991910080B60C /* NSAttributedString+Extension.swift in Sources */,
 				BA10534A005C01B06DF991B8D4F38407 /* HkBaseFramework-dummy.m in Sources */,
 				0D669F5E20A98BAF0080B60C /* UIBarButtonItem+Extensions.swift in Sources */,
-				0D669F7320A98C060080B60C /* SwiftTimer.swift in Sources */,
 				0D669F6720A98BAF0080B60C /* UIView+Extensition.swift in Sources */,
-				0D669F7820A98C220080B60C /* HKTextField.swift in Sources */,
 				0D669F5B20A98BAF0080B60C /* UILabel+Space.swift in Sources */,
 				0D669F6120A98BAF0080B60C /* UIImage+Extension.swift in Sources */,
-				0D669F6E20A98BDE0080B60C /* loggerswift.swift in Sources */,
+				0D669F8420A994B90080B60C /* loggerswift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
