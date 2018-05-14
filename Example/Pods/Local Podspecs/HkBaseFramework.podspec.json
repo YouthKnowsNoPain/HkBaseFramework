@@ -1,0 +1,22 @@
+{
+  "name": "HkBaseFramework",
+  "version": "0.1.0",
+  "summary": "A short description of HkBaseFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/schyhk@qq.com/HkBaseFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "schyhk@qq.com": "schyhk@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/schyhk@qq.com/HkBaseFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HkBaseFramework/Classes/**/*"
+}

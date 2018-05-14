@@ -1,0 +1,6 @@
+framework module HkBaseFramework {
+  umbrella header "HkBaseFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

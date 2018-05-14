@@ -1,0 +1,16 @@
+PODS:
+  - HkBaseFramework (0.1.0)
+
+DEPENDENCIES:
+  - HkBaseFramework (from `../`)
+
+EXTERNAL SOURCES:
+  HkBaseFramework:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HkBaseFramework: d7d6244d25197973ed6effefea692981b2811195
+
+PODFILE CHECKSUM: 6b3b3ae19f8baa310ae2ddb05cbf94b7a3889e7f
+
+COCOAPODS: 1.4.0
